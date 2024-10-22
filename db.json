@@ -1,0 +1,53 @@
+{
+  "projects": [
+    {
+      "name": "Marcelo - BRA-2K20",
+      "budget": "1000",
+      "category": {
+        "id": "2",
+        "name": "Problemas Elétricos"
+      },
+      "cost": 1000,
+      "services": [
+        {
+          "name": "Comprar bateria",
+          "cost": "300",
+          "id": "4e0aee84-55cc-4dfb-87d9-136e16c267aa"
+        },
+        {
+          "name": "Mão de obra",
+          "cost": "200",
+          "id": "a66e1640-5de0-4eed-98de-f172121e0c25"
+        },
+        {
+          "name": "limpeza",
+          "cost": "500",
+          "id": "842e3b75-b584-4bad-a428-46a80aee50a6"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Problemas no Motor"
+    },
+    {
+      "id": 2,
+      "name": "Problemas Elétricos"
+    },
+    {
+      "id": 3,
+      "name": "Problemas na Suspensão"
+    },
+    {
+      "id": 4,
+      "name": "Problemas nos Freios"
+    },
+    {
+      "id": 5,
+      "name": "Problemas no Sistema de Escape"
+    }
+  ]
+}
