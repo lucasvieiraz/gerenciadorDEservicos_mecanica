@@ -1,7 +1,7 @@
 # Gerenciador de Serviços para Oficna Mecânica
 
 Este projeto é uma aplicação em React que permite o controle e gerenciamento de orçamento de serviços com suas respectivas categorias (Problemas no Motor, Problemas Elétricos, Problemas na Suspensão, Problemas nos Freios,  Problemas no Sistema de Escape). Utiliza uma API fake para persistência dos dados, simulada com JSON Server.
-
+[]!(ui.gif)
 ## Funcionalidades
 
 Cadastro de Serviços: Adicione novos serviços, inserindo nome, placa do veículo, orçamento e categoria.
