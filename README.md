@@ -1,14 +1,15 @@
-# Controle de Arcabouço Fiscal de Projetos
+# Gerenciador de Serviços para Oficna Mecânica
 
-Este projeto é uma aplicação em React que permite o controle e gerenciamento de projetos com suas respectivas categorias e serviços. Utiliza uma API fake para persistência dos dados, simulada com JSON Server.
+Este projeto é uma aplicação em React que permite o controle e gerenciamento de orçamento de serviços com suas respectivas categorias (Problemas no Motor, Problemas Elétricos, Problemas na Suspensão, Problemas nos Freios,  Problemas no Sistema de Escape). Utiliza uma API fake para persistência dos dados, simulada com JSON Server.
 
 ## Funcionalidades
 
-Cadastro de Projetos: Adicione novos projetos, inserindo nome, orçamento e categoria.
+Cadastro de Serviços: Adicione novos serviços, inserindo nome, placa do veículo, orçamento e categoria.
 
-Gerenciamento de Serviços: Adicione serviços aos projetos, especificando nome, custo e descrição.
+Gerenciamento de Serviços: Adicione sub serviços aos serviços, especificando nome, custo e descrição. Os custos desses sub serviço integram ao valor total e é constamente comparado ao valor do orçamento total onde, o valor total não pode ser superior a o valor do orçamento total.
 
-Categorias Dinâmicas: As categorias são obtidas de uma API fake e listadas dinamicamente no formulário.
+
+
 
 ## Tecnologias Utilizadas
 
