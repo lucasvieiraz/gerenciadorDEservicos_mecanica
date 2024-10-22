@@ -7,7 +7,7 @@ Este projeto é uma aplicação em React que permite o controle e gerenciamento 
 
 Cadastro de Serviços: Adicione novos serviços, inserindo nome, placa do veículo, orçamento e categoria.
 
-Gerenciamento de Serviços: Adicione sub serviços aos serviços, especificando nome, custo e descrição. Os custos desses sub serviço integram ao valor total e é constamente comparado ao valor do orçamento total onde, o valor total não pode ser superior a o valor do orçamento total.
+Gerenciamento de Serviços: Adicione sub serviços aos serviços, especificando nome, custo e descrição. Os custos desses sub serviço integram ao valor total e é constantemente comparado ao valor do orçamento total onde, o valor total não pode ser superior a o valor do orçamento total.
 
 
 
